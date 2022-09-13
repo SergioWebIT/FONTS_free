@@ -2,7 +2,7 @@
 Free fonts that are not "google fonts" !!!!!!!!!!!!
 
 
-https://sergiowebit.github.io/FONTS_free/
+https://sergiowebit.github.io/FONTS_free
 
 
 
