@@ -1,11 +1,14 @@
 # FONTS_free
 Free fonts that are not "google fonts" !!!!!!!!!!!!
 
+Circular Std-Latin
+https://sergiowebit.github.io/FONTS_free/Circular Std-Latin/
 
-FONTS_free/Circular Std-Latin/
+Circular Std-Кирилица
+https://sergiowebit.github.io/FONTS_free/Circular Std-Кирилица/
 
-FONTS_free/Circular Std-Кирилица/
+Lato-Latin
+https://sergiowebit.github.io/FONTS_free/Lato-Latin/
 
-FONTS_free/Lato-Latin/
-
-FONTS_free/Lato-Кирилица/
+Lato-Кирилица
+https://sergiowebit.github.io/FONTS_free/Lato-Кирилица/
